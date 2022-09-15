@@ -2,7 +2,7 @@
 
 window._bmMakerName = "Copenhagen Distillery";
 
-window.gaMeasurementId = 'G-3PJ6T3Y941';
+window.gaMeasurementId = 'G-3PJ6T3Y941'; // <<<< Is this still needed? It's overwritten in the page using inline script right now.
 
 var supportedCountries = {
     se: {url: ""},
